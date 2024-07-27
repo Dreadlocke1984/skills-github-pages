@@ -1,5 +1,5 @@
 ---
-title: "First-Blog"
+title: "My-First-Blog"
 date: 2024-07-27
 ---
 # Introduction to Programming with Python
